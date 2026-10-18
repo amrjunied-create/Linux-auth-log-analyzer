@@ -1,0 +1,6 @@
+
+Oct 19 10:01:01 server sshd: Failed password for admin from 192.168.1.20 port 4101 ssh2
+Oct 19 10:01:05 server sshd: Failed password for admin from 192.168.1.20 port 4102 ssh2
+Oct 19 10:01:09 server sshd: Failed password for root from 192.168.1.20 port 4103 ssh2
+Oct 19 10:02:10 server sshd: Failed password for test from 10.0.0.8 port 4201 ssh2
+Oct 19 10:03:00 server sshd: Accepted password for student from 192.168.1.15 port 4301 ssh2
